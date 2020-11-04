@@ -1,9 +1,8 @@
 !*.*
 .idea/
+.idea/*
 _*
 __*
 *.db
-#*.sqlite3
-#*.sqlite
 config/
 static/files/sitemap.xml
